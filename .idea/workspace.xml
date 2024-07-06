@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc3a5ea8-72c6-4aa7-963d-7d5df76cf9b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/config/DatabaseConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/controller/TrekController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/dataservice/TrekDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/model/Trek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/trek/service/TrekService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trekky.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trekky.iml" afterDir="false" />
-    </list>
+    <list default="true" id="bc3a5ea8-72c6-4aa7-963d-7d5df76cf9b4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
